@@ -4,13 +4,12 @@
 - 🎵 I love listening to music
 
 <p align="center">
-  <img align="center" src="https://gph.is/g/EJgkj7e">
+  <img align="center" src="https://giphy.com/gifs/LmNwrBhejkK9EFP504/html5">
 </p>
 
 ### Contact:<br>
 [![Discord](https://img.shields.io/badge/[Kalu]%237777-141321?style=flat&logo=discord)](https://discord.com)
 [![Gmail](https://img.shields.io/badge/chintuprasad548@gmail.com-141321?style=flat&logo=gmail)](mailto:chintuprasad548@gmail.com)
-[![Spotify](https://img.shields.io/badge/Chintu Prasad-141321?style=flat&logo=spotify)](https://open.spotify.com/user/7ga95xm438ku2j2d595kulaqs)
 [![Steam](https://img.shields.io/badge/Chintuprasad548-141321?style=flat&logo=Steam&logoColor=blue)](https://steamcommunity.com/profiles/76561199085934740)
 
 
