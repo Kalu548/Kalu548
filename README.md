@@ -4,7 +4,7 @@
 - 🎵 I love listening to music
 
 <p align="center">
-  <img align="center" src="https://giphy.com/gifs/LmNwrBhejkK9EFP504/html5">
+  <img align="center" src="https://media.giphy.com/media/LmNwrBhejkK9EFP504/giphy.gif">
 </p>
 
 ### Contact:<br>
