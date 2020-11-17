@@ -1,6 +1,6 @@
 
 - ✨I’m <b>Kalu</b>. 
-- 👨🏻‍💻 I’m currently working on [Mitsuki](https://repl.it/@Kalu0001/Mitsuki)
+- 👨🏻‍💻 I’m currently working on [Cutie](https://top.gg/bot/740045367956996236)
 - 🎵 I love listening to music
 
 <p align="center">
