@@ -14,6 +14,6 @@
 
 
 
-![Kalu's github stats](https://github-readme-stats.vercel.app/api?username=chintu548&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=chintu548&theme=tokyonight&langs_count=10&layout=compact)
+![Kalu's github stats](https://github-readme-stats.vercel.app/api?username=Kalu548&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kalu548&theme=tokyonight&langs_count=10&layout=compact)
 
