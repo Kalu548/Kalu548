@@ -15,5 +15,5 @@
 
 
 ![Kalu's github stats](https://github-readme-stats.vercel.app/api?username=Kalu548&count_private=true&include_all_commits=true&show_icons=true&theme=radical)
-![Top Langs]<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kalu548&layout=compact&langs_count=9&hide=css,html" />
+![Top Langs]("https://github-readme-stats.vercel.app/api/top-langs/?username=Kalu548&layout=compact&langs_count=9&hide=css,html")
 
